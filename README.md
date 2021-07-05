@@ -1,2 +1,2 @@
 # go_by_example
-Practicing Go
+This is for me to practice Go language. All the code comes from https://gobyexample.com.
